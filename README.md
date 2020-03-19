@@ -1,5 +1,5 @@
 # CI
-FIB
+FIB®
 
 Montaje del microprocesador sobre protoboard
 
