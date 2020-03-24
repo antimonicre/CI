@@ -10,3 +10,4 @@ Interfícies de Computadores
 
 --> Laboratorio 5: Display 7-segments
 
+--> Laboratorio 6: GLCD
