@@ -1,5 +1,5 @@
 # CI
-FIB®
+Curso 2019-2020 Cuatrimestre de Primavera. FIB®
 
 Interfícies de Computadores
 -
