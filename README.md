@@ -10,14 +10,14 @@ Interfícies de Computadores
 
 --> Laboratorio 5: Display 7-segments
 
-    Sobre>> Display: Mover cuadrado
+    *Sobre* Display: Mover cuadrado
 
 --> Laboratorio 6: GLCD
 
-    Sobre>> GLCD: Modo nocturno
+    *Sobre* GLCD: Modo nocturno
 
 --> Laboratorio 7: Interrupciones
 
-    Sobre>> GLCD: Mover personaje
+    *Sobre* GLCD: Mover personaje
     
 --> Laboratorio 8: Pong
