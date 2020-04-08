@@ -9,12 +9,15 @@ Interfícies de Computadores
 --> Laboratorio 4: Puertos de entrada y salida
 
 --> Laboratorio 5: Display 7-segments
+
     Sobre>> Display: Mover cuadrado
 
 --> Laboratorio 6: GLCD
+
     Sobre>> GLCD: Modo nocturno
 
 --> Laboratorio 7: Interrupciones
+
     Sobre>> GLCD: Mover personaje
     
 --> Laboratorio 8: Pong
