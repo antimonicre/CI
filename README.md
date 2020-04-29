@@ -21,3 +21,9 @@ Interfícies de Computadores
     *Sobre* GLCD: Mover personaje
     
 --> Laboratorio 8: Pong
+
+--> Laboratorio 9: Timers
+
+    *Sobre* Timers: Disparar a tiempo
+    
+--> Laboratorio 10: CCP
