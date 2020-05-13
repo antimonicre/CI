@@ -27,3 +27,8 @@ Interfícies de Computadores
     *Sobre* Timers: Disparar a tiempo
     
 --> Laboratorio 10: CCP
+
+    *Sobre* CCP PWM: Emitir una melodía
+    
+--> Laboratorio 11: Conversor A/D
+   
